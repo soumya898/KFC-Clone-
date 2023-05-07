@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color:#fff;
+    width: 100%;
+    height:110px;
+    z-index: 100;
+    position: fixed;
+    
+
+}
+#child-nav{
+    /* background-color: black; */
+    zindex:-20;
+
+}
