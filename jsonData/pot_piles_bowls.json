@@ -1,0 +1,35 @@
+[
+  
+    {
+        "image": "https://digitaleat.kfc.com/menus/image/bare/kfc-FamousBowl?q=75",
+        "name": "Famous Bowl",
+        "calories": "840-1120",
+        "price": 199,
+        "count":0,
+        "id": "1"
+    },
+    {
+        "image": "https://digitaleat.kfc.com/menus/image/bare/kfc-FamousBowlMeal?q=75",
+        "name": "Famous Bowl Meal",
+        "calories": "790-1330",
+        "price": 399,
+        "count":0,
+        "id": "2"
+    },
+    {
+        "image": "https://digitaleat.kfc.com/menus/image/bare/kfc-FamousBowlCombo?q=75",
+        "name": "Famous Bowl Combo",
+        "calories": "840-1120",
+        "price": 399,
+        "count":0,
+        "id": "3"
+    },
+    {
+        "image": "https://digitaleat.kfc.com/menus/image/bare/kfc-PotPieCombo?q=75",
+        "name": "Pot Pie Combo",
+        "calories": "840-1120",
+        "price": 599,
+        "count":0,
+        "id": "4"
+    }
+  ]
