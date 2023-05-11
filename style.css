@@ -17,11 +17,14 @@ nav{
     zindex:-20;
 
 }
-
+/* 
  #playstore{
   border-radius: 19%;
-} 
+}  */
 #middle_div img{
  background-color: black;
- border-radius: 0%;
+ border-radius: 10%;
+}
+.signin_signup {
+    color:black;
 }
