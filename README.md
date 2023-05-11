@@ -34,7 +34,7 @@ This is a clone of Kentucky Fried Chicken web App, made by me for Final Year Col
 ## Hoisting 
  you can serch clukadoo.netlify.app in browser  , you will  see CKD site 
  
- or [https://clukadoo.netlify.app]
+ or [https://cluckadoo.netlify.app/]
    
  
 ## Installation
