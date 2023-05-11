@@ -21,7 +21,7 @@ This is a clone of Kentucky Fried Chicken web App, made by me for Final Year Col
 - HTML
 - CSS
 - JavaScript
--
+
 ## Features
 - Responsive design for desktop and mobile devices
 - User authentication and registration
@@ -34,7 +34,7 @@ This is a clone of Kentucky Fried Chicken web App, made by me for Final Year Col
 ## Hoisting 
  you can serch clukadoo.netlify.app in browser  , you will  see CKD site 
  
- or 
+ or [https://clukadoo.netlify.app]
    
  
 ## Installation
