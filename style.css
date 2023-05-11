@@ -17,15 +17,11 @@ nav{
     zindex:-20;
 
 }
-/* .play-store-logo {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 9999;
-  } */
-  
-  play-store-logo {
-    width: 150px;
-    border: 1px solid black;
-    border-radius: 19%;
+
+ #playstore{
+  border-radius: 19%;
+} 
+#middle_div img{
+ background-color: black;
+ border-radius: 0%;
 }
